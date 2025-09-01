@@ -1,0 +1,14 @@
+location_id,location_name,locality,sensor_id,sensor_latitude,sensor_longitude,measurement_date,parameter_with_units,minimum_measured_value,average_measured_value,maximum_measured_value
+664,Bklyn - PS274,New York-Northern New Jersey-Long Island,1145,40.6944,-73.9286,2025-07-20,pm25 (µg/m³),3.8,6.2375,10.0
+648,Bklyn - PS 314,KINGS,1128,40.64182,-74.01871,2025-07-20,pm25 (µg/m³),3.6,5.1291666,7.8
+626,Bronx - IS52,New York-Northern New Jersey-Long Island,1098,40.8161,-73.9022,2025-07-20,o3 (ppm),0.033,0.046136364,0.074
+626,Bronx - IS52,New York-Northern New Jersey-Long Island,1102,40.8161,-73.9022,2025-07-20,pm25 (µg/m³),4.0,7.0666666,12.5
+665,Bronx - IS74,New York-Northern New Jersey-Long Island,1146,40.8147,-73.8867,2025-07-20,pm25 (µg/m³),4.3,6.8875,11.3
+384,CCNY,New York-Northern New Jersey-Long Island,671,40.8197,-73.9481,2025-07-20,o3 (ppm),0.031,0.045041665,0.07
+384,CCNY,New York-Northern New Jersey-Long Island,673,40.8197,-73.9481,2025-07-20,pm25 (µg/m³),3.8,6.0375,8.6
+625,Manhattan/IS143,New York-Northern New Jersey-Long Island,1097,40.8492,-73.9319,2025-07-20,pm25 (µg/m³),1.4,5.0625,10.2
+628,Maspeth,New York-Northern New Jersey-Long Island,1103,40.7269,-73.8933,2025-07-20,pm25 (µg/m³),0.0,3.9125,11.1
+292229,Morrisania,New York-Northern New Jersey-Long Island,1662910,40.8367,-73.9214,2025-07-20,pm25 (µg/m³),1.2,4.4333334,9.4
+666,Pfizer Lab,New York-Northern New Jersey-Long Island,1147,40.868,-73.8782,2025-07-20,o3 (ppm),0.031,0.044217393,0.066
+631,Queens,New York-Northern New Jersey-Long Island,1106,40.7375,-73.8244,2025-07-20,o3 (ppm),0.031,0.046695653,0.076
+631,Queens,New York-Northern New Jersey-Long Island,1152,40.7375,-73.8244,2025-07-20,pm25 (µg/m³),2.7,5.5625,9.9
